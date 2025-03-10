@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RdataTmp
+00_figuretable/
+.RData
+.Ruserdata
+*.xlsx
+*.csv
+99_data/
+miscellaneous/
+.venv
+*.pdf
+*.Rproj
+history_database
+100_report/
+.DS_Store
