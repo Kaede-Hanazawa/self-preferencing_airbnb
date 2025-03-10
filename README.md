@@ -3,4 +3,4 @@ This repository is prepared for the replication of the paper, "Welfare Effects o
 
 The paper is available at [arXiv](https://arxiv.org/abs/2503.04489).
 
-Since my data includes the personal information of the hosts, I cannot share the data. However, I provide the code for the replication of the paper.
+Since my data includes personal information of the hosts, I cannot share the data publicly by my own decision. However, I can share it upon request.
