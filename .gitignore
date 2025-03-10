@@ -1,7 +1,7 @@
 .Rproj.user
 .Rhistory
 .RdataTmp
-00_figuretable/
+# 00_figuretable/
 .RData
 .Ruserdata
 *.xlsx
