@@ -9,7 +9,7 @@
 99_data/
 miscellaneous/
 .venv
-*.pdf
+# *.pdf
 *.Rproj
 history_database
 100_report/
